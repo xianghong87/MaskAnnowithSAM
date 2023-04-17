@@ -5,7 +5,7 @@ LabelImg is an open-source image annotation tool that facilitates object annotat
 
 The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
 
-![alt text](https://github.com/xianghong87/MaskAnnowithSAM/blob/main/diagram.png?raw=true)
+<img src=[diagram.png](https://github.com/xianghong87/MaskAnnowithSAM/blob/main/diagram.png?raw=true) width=80% />
 
 #### How to use
 1. anno your images with LabelImg
